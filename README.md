@@ -1,3 +1,5 @@
+![Taufeeq Ali — Software Developer, Systems, Cloud, AI](assets/profile-banner.png)
+
 # Hi, I'm Taufeeq Ali
 
 Software Developer at **ARGO Data**, building backend systems, developer tools, cloud infrastructure, and full-stack products.
